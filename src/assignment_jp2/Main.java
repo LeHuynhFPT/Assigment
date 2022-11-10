@@ -1,7 +1,4 @@
 package assignment_jp2;
-
-
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -13,9 +10,9 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         rootStage = primaryStage;
-        Parent root = FXMLLoader.load(getClass().getResource("home.fxml"));
-        primaryStage.setTitle("List of students");
-        primaryStage.setScene(new Scene(root, 955, 587));
+        Parent root = FXMLLoader.load(getClass().getResource("students.fxml"));
+        primaryStage.setTitle("Hello World");
+        primaryStage.setScene(new Scene(root, 800, 600));
         primaryStage.show();
     }
 
