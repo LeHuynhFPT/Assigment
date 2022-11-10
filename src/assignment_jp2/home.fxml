@@ -13,12 +13,12 @@
                 <Font size="70.0" />
             </font>
         </Text>
-        <Button fx:id="display" onAction="#goToStudentList" alignment="CENTER" layoutX="507.0" layoutY="163.0" mnemonicParsing="false" prefHeight="143.0" prefWidth="244.0" text=" Display student records" textAlignment="CENTER" textFill="#3068f4" textOverrun="CLIP">
+        <Button fx:id="display" onAction="#goToStudentList" alignment="CENTER" layoutX="507.0" layoutY="163.0" mnemonicParsing="false" prefHeight="143.0" prefWidth="244.0" text=" Display assignment_jp2 records" textAlignment="CENTER" textFill="#3068f4" textOverrun="CLIP">
             <font>
                 <Font size="18.0" />
             </font>
         </Button>
-        <Button fx:id="add" onAction="#createNewStudent" alignment="CENTER" layoutX="178.0" layoutY="163.0" mnemonicParsing="false" prefHeight="143.0" prefWidth="244.0" text=" Add student records" textAlignment="CENTER" textFill="#3068f4" textOverrun="CLIP">
+        <Button fx:id="add" onAction="#createNewStudent" alignment="CENTER" layoutX="178.0" layoutY="163.0" mnemonicParsing="false" prefHeight="143.0" prefWidth="244.0" text=" Add assignment_jp2 records" textAlignment="CENTER" textFill="#3068f4" textOverrun="CLIP">
             <font>
                 <Font size="18.0" />
             </font>

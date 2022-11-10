@@ -1,4 +1,4 @@
-package student.dao.impls;
+package assignment_jp2.dao.impls;
 
 
 import assignment_jp2.entities.Student;

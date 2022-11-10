@@ -1,4 +1,4 @@
-package student.dao.interfaces;
+package assignment_jp2.dao.interfaces;
 
 
 import assignment_jp2.dao.interfaces.IStudentRepository;
